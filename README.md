@@ -7,7 +7,7 @@
 
 > La ultima version de esta se actualizo en 2018 en un intento de uso me di cuenta que tenia muchos errores y que se podia optimizar un poco mas el codigo.
 
-[![MOCKUP SL](./images/mockup.png)]
+[![MOCKUP SL](https://github.com/ByteLost/ScalingLayout/blob/main/tia8375009282935929071.png)]
 ### Uso
 #### Con XML
 ```xml
