@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="ScalingLayout">
+        <attr name="radius" format="float"/>
+    </declare-styleable>
+</resources>
